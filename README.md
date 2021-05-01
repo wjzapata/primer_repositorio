@@ -1,3 +1,4 @@
-## walter zapata
+## Walter Zapata
 
 mi primer repositorio
+
